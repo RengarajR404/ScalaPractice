@@ -1,0 +1,4 @@
+#!scala
+
+@main def hello() = println(args(0));
+
